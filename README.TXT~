@@ -1,0 +1,4 @@
+LLVM Fault Injector - LLFI-IPA 
+  Description: An extension of LLFI for multithreaded programs using Invariant Propagation Analysis (IPA).
+
+For LLFI installation, 
